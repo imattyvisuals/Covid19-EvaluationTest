@@ -1,4 +1,4 @@
-# covid-hack
+# Spotlight Covid19-ETest
 
 Here is a simple Covid-19 Hack App, to help get
 + Real time data
