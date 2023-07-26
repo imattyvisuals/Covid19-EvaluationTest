@@ -6,4 +6,4 @@ Here is a simple Covid-19 Hack App, to help get
 
 Though build is still in progress!
 
-<a href="https://inventorsdev.github.io/covid-hack/">Live App Here</a>
+<a href="http://imatty.rf.gd/Covid19-ETest/index.html">Live App Here</a>
